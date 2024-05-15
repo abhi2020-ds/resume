@@ -86,10 +86,10 @@ content:
         quote: >
           Solving business problems by designing game changing data analytics products.
         description: | # this will include new lines to allow paragraphs
-            #● Led a team to optimize auto finance loan application processes using advanced analytics, reducing operations overhead by 30%.
-            #● Developed reporting products enabling Account Executives to track loan application seamlessly. Automated financial data models and complex dashboards, significantly reducing processing time.
-            #● Analyzed transactional data to uncover measurable insights in customer portfolio management and risk assessment.
-            #● Managed enterprise-scale analytics technology upgrades, ensuring seamless migration and platform integration.
+            - Led a team to optimize auto finance loan application processes using advanced analytics, reducing operations overhead by 30%.
+            - Developed reporting products enabling Account Executives to track loan application seamlessly. Automated financial data models and complex dashboards, significantly reducing processing time.
+            - Analyzed transactional data to uncover measurable insights in customer portfolio management and risk assessment.
+            - Managed enterprise-scale analytics technology upgrades, ensuring seamless migration and platform integration.
       - layout: left
         title: TTI Of USA
         link: https://ttiofusa.com/
@@ -99,10 +99,10 @@ content:
         quote: >
           Solving business problems by designing game changing data analytics products.
         description: | # this will include new lines to allow paragraphs
-            #● Led a project team in upgrading enterprise reporting software, enhancing features and functionality for internal stakeholders.
-            #● Created an XML Parser tool, reducing data lineage documentation upkeep by 40%.
-            #● Delivered business reports for Sales and Account Executive Leadership.
-            #● Developed cross-integration solutions to improve data governance and ensure consistency across reporting systems.
+            - Led a project team in upgrading enterprise reporting software, enhancing features and functionality for internal stakeholders.
+            - Created an XML Parser tool, reducing data lineage documentation upkeep by 40%.
+            - Delivered business reports for Sales and Account Executive Leadership.
+            - Developed cross-integration solutions to improve data governance and ensure consistency across reporting systems.
       - layout: left
         title: Reliable Software Resources
         link: https://www.rsrit.com/
@@ -112,10 +112,10 @@ content:
         quote: >
           Solving business problems by designing game changing data analytics products.
         description: | # this will include new lines to allow paragraphs
-            #● Created Dimensional Models and Cubes using Cognos Reporting suites.
-            #● Engineered intricate ETL pipelines with Informatica, decreasing deployment time through automated scripting.
-            #● Partnered with data architects and stakeholder committee members to offer insights on six-sigma model-based supply chain reporting.
-            #● Improved incident support ticket SLAs for reporting platforms.
+            - Created Dimensional Models and Cubes using Cognos Reporting suites.
+            - Engineered intricate ETL pipelines with Informatica, decreasing deployment time through automated scripting.
+            - Partnered with data architects and stakeholder committee members to offer insights on six-sigma model-based supply chain reporting.
+            - Improved incident support ticket SLAs for reporting platforms.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
