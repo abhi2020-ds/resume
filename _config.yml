@@ -64,19 +64,19 @@ content:
         caption: June 2021 - Present
         quote: >
           Solving business problems by designing game changing data analytics products.
-        description: |+ # this will include new lines to allow paragraphs
-            #● Engineered predictive analytics models using machine learning algorithms at Domino’s, boosting loyalty program’s forecast accuracy by 20%.
-            #● Activated cross-functional teams, driving a 12% increase in customer growth and a 7% boost in orders and sales.
-            #● Spearheaded strategic alignment of reporting KPIs, ensuring optimal business outcomes.
-            #● Achieved outstanding 50% cut in data-ingestion runtime, accelerating time-to-insights.
-            #● Increased dashboard user base by 48%, facilitating seamless data communication and insights consumption.
-            #● Partnered with Senior Directors and Marketing VPs to establish key performance indicators (KPIs) for Marketing and Consumer Analytics Dashboards.
-            #● Engineered a Customer Retention Analytics Tracking Tool, bolstering retention strategies and targeted offer effectiveness.
-            #● Streamlined data pipelines, ensuring robust integrity across platforms.
-            #● Mentored team for a culture of continuous learning and high performance.
-            #● Contributed to Azure Cloud Migration roadmap planning, enhancing operational efficiency.
-            #● Demonstrated commitment to growth with Microsoft Certifications in Azure Data, Azure AI, and Power BI.
-            #● Built A/B Testing Dashboard that helped data preparation process automated for analyzing marketing campaigns and customer take rates, ordering frequency changes.
+        description: | # this will include new lines to allow paragraphs
+            # Engineered predictive analytics models using machine learning algorithms at Domino’s, boosting loyalty program’s forecast accuracy by 20%. 
+            # Activated cross-functional teams, driving a 12% increase in customer growth and a 7% boost in orders and sales.
+            # Spearheaded strategic alignment of reporting KPIs, ensuring optimal business outcomes.
+            # Achieved outstanding 50% cut in data-ingestion runtime, accelerating time-to-insights.
+            # Increased dashboard user base by 48%, facilitating seamless data communication and insights consumption.
+            # Partnered with Senior Directors and Marketing VPs to establish key performance indicators (KPIs) for Marketing and Consumer Analytics Dashboards.
+            # Engineered a Customer Retention Analytics Tracking Tool, bolstering retention strategies and targeted offer effectiveness.
+            # Streamlined data pipelines, ensuring robust integrity across platforms.
+            # Mentored team for a culture of continuous learning and high performance.
+            # Contributed to Azure Cloud Migration roadmap planning, enhancing operational efficiency.
+            # Demonstrated commitment to growth with Microsoft Certifications in Azure Data, Azure AI, and Power BI.
+            # Built A/B Testing Dashboard that helped data preparation process automated for analyzing marketing campaigns and customer take rates, ordering frequency changes.
       - layout: left
         title: Ally Financial
         link: https://www.ally.com/
@@ -86,10 +86,10 @@ content:
         quote: >
           Solving business problems by designing game changing data analytics products.
         description: | # this will include new lines to allow paragraphs
-            ● Led a team to optimize auto finance loan application processes using advanced analytics, reducing operations overhead by 30%.
-            ● Developed reporting products enabling Account Executives to track loan application seamlessly. Automated financial data models and complex dashboards, significantly reducing processing time.
-            ● Analyzed transactional data to uncover measurable insights in customer portfolio management and risk assessment.
-            ● Managed enterprise-scale analytics technology upgrades, ensuring seamless migration and platform integration.
+            #● Led a team to optimize auto finance loan application processes using advanced analytics, reducing operations overhead by 30%.
+            #● Developed reporting products enabling Account Executives to track loan application seamlessly. Automated financial data models and complex dashboards, significantly reducing processing time.
+            #● Analyzed transactional data to uncover measurable insights in customer portfolio management and risk assessment.
+            #● Managed enterprise-scale analytics technology upgrades, ensuring seamless migration and platform integration.
       - layout: left
         title: TTI Of USA
         link: https://ttiofusa.com/
@@ -99,10 +99,10 @@ content:
         quote: >
           Solving business problems by designing game changing data analytics products.
         description: | # this will include new lines to allow paragraphs
-            ● Led a project team in upgrading enterprise reporting software, enhancing features and functionality for internal stakeholders.
-            ● Created an XML Parser tool, reducing data lineage documentation upkeep by 40%.
-            ● Delivered business reports for Sales and Account Executive Leadership.
-            ● Developed cross-integration solutions to improve data governance and ensure consistency across reporting systems.
+            #● Led a project team in upgrading enterprise reporting software, enhancing features and functionality for internal stakeholders.
+            #● Created an XML Parser tool, reducing data lineage documentation upkeep by 40%.
+            #● Delivered business reports for Sales and Account Executive Leadership.
+            #● Developed cross-integration solutions to improve data governance and ensure consistency across reporting systems.
       - layout: left
         title: Reliable Software Resources
         link: https://www.rsrit.com/
@@ -112,10 +112,10 @@ content:
         quote: >
           Solving business problems by designing game changing data analytics products.
         description: | # this will include new lines to allow paragraphs
-            ● Created Dimensional Models and Cubes using Cognos Reporting suites.
-            ● Engineered intricate ETL pipelines with Informatica, decreasing deployment time through automated scripting.
-            ● Partnered with data architects and stakeholder committee members to offer insights on six-sigma model-based supply chain reporting.
-            ● Improved incident support ticket SLAs for reporting platforms.
+            #● Created Dimensional Models and Cubes using Cognos Reporting suites.
+            #● Engineered intricate ETL pipelines with Informatica, decreasing deployment time through automated scripting.
+            #● Partnered with data architects and stakeholder committee members to offer insights on six-sigma model-based supply chain reporting.
+            #● Improved incident support ticket SLAs for reporting platforms.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -125,7 +125,7 @@ content:
         caption: 2009 - 2010
         sub_title: M.S Computer Science
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+         University was established by the Illinois General Assembly in 1969 as Sangamon State University with a focus on post-graduate education. It became the third member of the University of Illinois system on July 1, 1995. No. 1 public regional university in Illinois (2020, 2021, 2022, 2023, 2024).
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
