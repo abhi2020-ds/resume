@@ -134,7 +134,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Restaurant Rating Analysis - Yelp & Zomato
+        title: Customer Rating Analysis
         link: https://abhi2020-ds.github.io/blog/csa/
         link_text: Customer Rating Dashboard - Yelp & Zomato
         additional_links:
@@ -148,6 +148,21 @@ content:
           Gathering customer ratings on local restaurants and providing insights around several business KPIs using R Flexboard through Yelp and Zomato API calls.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way for learning <mark>R and Python</mark>. I have learned many skills through this and been I'm very proud of having this in my portfolio.
+      - layout: top-middle
+        title: Beautiful Soup Of Sport
+        link: https://abhi2020-ds.github.io/blog/csa/
+        link_text: Customer Rating Dashboard - Yelp & Zomato
+        additional_links:
+          - title:  Restaurant Rating Analysis - Yelp & Zomato
+            icon: fab fa-github
+            url: https://abhi2020-ds.github.io/blog/webscrp/
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Web scraping program to look into ATP stats for legends of tennis sports Roger Federer, Rafa Nadal and Novak Djockovic.
+        description: | # this will include new lines to allow paragraphs
+          I started this project to leverage <mark>Python</mark> and generate a time series visual for showcasing the grand slam race. This is a cool visual generating year over year race between 3 sports icon.
 
   - title: A Little More About Me
     layout: text
