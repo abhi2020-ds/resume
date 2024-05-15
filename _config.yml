@@ -63,7 +63,7 @@ content:
         sub_title: Lead Data Analytics Engineer
         caption: June 2021 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Solving business problems by designing game changing data analytics products.
         description: | # this will include new lines to allow paragraphs
             ● Engineered predictive analytics models using machine learning algorithms at Domino’s, boosting loyalty program’s forecast accuracy by 20%.
             ● Activated cross-functional teams, driving a 12% increase in customer growth and a 7% boost in orders and sales.
@@ -77,14 +77,53 @@ content:
             ● Contributed to Azure Cloud Migration roadmap planning, enhancing operational efficiency.
             ● Demonstrated commitment to growth with Microsoft Certifications in Azure Data, Azure AI, and Power BI.
             ● Built A/B Testing Dashboard that helped data preparation process automated for analyzing marketing campaigns and customer take rates, ordering frequency changes.
+      - layout: left
+        title: Ally Financial
+        link: https://www.ally.com/
+        link_text: ally.com
+        sub_title: Senior Data Analytics Engineer
+        caption: October 2013 - May 2021
+        quote: >
+          Solving business problems by designing game changing data analytics products.
+        description: | # this will include new lines to allow paragraphs
+            ● Led a team to optimize auto finance loan application processes using advanced analytics, reducing operations overhead by 30%.
+            ● Developed reporting products enabling Account Executives to track loan application seamlessly. Automated financial data models and complex dashboards, significantly reducing processing time.
+            ● Analyzed transactional data to uncover measurable insights in customer portfolio management and risk assessment.
+            ● Managed enterprise-scale analytics technology upgrades, ensuring seamless migration and platform integration.
+      - layout: left
+        title: TTI Of USA
+        link: https://ttiofusa.com/
+        link_text: ttiofusa.com
+        sub_title: Senior Solutions Architect
+        caption: August 2012 - Septermber 2013
+        quote: >
+          Solving business problems by designing game changing data analytics products.
+        description: | # this will include new lines to allow paragraphs
+            ● Led a project team in upgrading enterprise reporting software, enhancing features and functionality for internal stakeholders.
+            ● Created an XML Parser tool, reducing data lineage documentation upkeep by 40%.
+            ● Delivered business reports for Sales and Account Executive Leadership.
+            ● Developed cross-integration solutions to improve data governance and ensure consistency across reporting systems.
+      - layout: left
+        title: Reliable Software Resources
+        link: https://www.rsrit.com/
+        link_text: rsrit.com
+        sub_title: Data Analytics Consultant
+        caption: March 2011 - July 2012
+        quote: >
+          Solving business problems by designing game changing data analytics products.
+        description: | # this will include new lines to allow paragraphs
+            ● Created Dimensional Models and Cubes using Cognos Reporting suites.
+            ● Engineered intricate ETL pipelines with Informatica, decreasing deployment time through automated scripting.
+            ● Partnered with data architects and stakeholder committee members to offer insights on six-sigma model-based supply chain reporting.
+            ● Improved incident support ticket SLAs for reporting platforms.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: University Of Illinois at Springfield
+        caption: 2009 - 2010
+        sub_title: M.S Computer Science
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
