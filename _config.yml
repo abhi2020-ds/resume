@@ -127,8 +127,8 @@ content:
         quote: >
          University was established by the Illinois General Assembly in 1969 as Sangamon State University with a focus on post-graduate education. It became the third member of the University of Illinois system on July 1, 1995. No. 1 public regional university in Illinois (2020, 2021, 2022, 2023, 2024).
         description: | # this will include new lines to allow paragraphs
-          During my time at UIS I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-          I spent a lot of my free time as a member of the *Indian Student Organization* taking on roles such as *President* and *Vice-President*.
+          During my time at UIS I learnt most of my key skills that I have taken through my career such as teamwork and working to strict deadlines. I thouroughly enjoyed my time in university and learnt a lot about a healthy work life balance.
+          I spent my extra time as a committee member of the *Indian Student Organization* taking on roles such as *President* and *Vice-President*.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
