@@ -48,9 +48,12 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Accomplished and results-driven Analytics Leader with over <mark>13</mark> years of progressive experience in data analytics and business intelligence. 
-  Proven track record of engineering sophisticated data analytics solutions to drive business insights, enhance operational efficiency, and optimize decision-making processes. 
-  A strategic thinker with a deep understanding of industry-specific data challenges, dedicated to driving organizational success through innovative data-driven strategies and effective team leadership.
+  Accomplished Data Science and Analytics Leader with over 13 years of experience driving innovation and operational efficiency across diverse industries, including finance, manufacturing, and QSR. 
+  Proven expertise in developing and implementing advanced predictive models, enhancing data management processes, and delivering actionable insights that significantly boost business performance.
+  Successfully led cross-functional teams in the design and deployment of robust analytics solutions, achieving a 20% increase in customer growth forecast accuracy and a 12% rise in loyalty program sales.
+  Skilled in leveraging state-of-the-art tools and technologies, such as Power BI, Python, R, and Azure, to architect scalable data ecosystems and optimize decision-making processes.
+  Known for strategic vision, meticulous attention to detail, and the ability to translate complex data insights into clear, compelling narratives for senior leadership.
+  Dedicated to fostering a culture of continuous learning and professional development within high-performing teams.
 
 content:
   - title: Experience # Title for the section
