@@ -135,12 +135,12 @@ content:
     content:
       - layout: top-middle
         title: Customer Rating Analysis
-        link: https://abhi2020-ds.github.io/blog/csa/
+        link: https://devgyan.work/blog/csa/
         link_text: Customer Rating Dashboard - Yelp & Zomato
         additional_links:
           - title:  Restaurant Rating Analysis - Yelp & Zomato
             icon: fab fa-github
-            url: https://abhi2020-ds.github.io/blog/csa/
+            url: https://devgyan.work/blog/csa/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -150,12 +150,12 @@ content:
           I started this project as a way for learning <mark>R and Python</mark>. I have learned many skills through this and been I'm very proud of having this in my portfolio.
       - layout: top-middle
         title: Beautiful Soup Of Sport
-        link: https://abhi2020-ds.github.io/blog/webscrp/
+        link: https://devgyan.work/blog/webscrp/
         link_text: Beautiful Soup Of Sport
         additional_links:
           - title:  Beautiful Soup Of Sport
             icon: fab fa-github
-            url: https://abhi2020-ds.github.io/blog/webscrp/
+            url: https://devgyan.work/blog/webscrp/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
